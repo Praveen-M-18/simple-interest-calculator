@@ -1,0 +1,17 @@
+$ curl https://api.github.com/repos/Praveen-M-18/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "id": 483920192,
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Praveen-M-18/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "fork": true,
+  "url": "https://api.github.com/repos/Praveen-M-18/mcino-Introduction-to-Git-and-GitHub",
+  "parent": {
+    "id": 394820194,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
