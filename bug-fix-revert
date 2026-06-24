@@ -1,0 +1,34 @@
+$ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
+
+{
+  "id": 987654321,
+  "number": 1,
+  "state": "open",
+  "title": "Fix typo in README",
+  "user": {
+    "login": "Praveen-M-18"
+  },
+  "head": {
+    "label": "Praveen-M-18:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "sha": "d93e1b8",
+    "user": {
+      "login": "Praveen-M-18"
+    },
+    "repo": {
+      "id": 483920192,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "Praveen-M-18/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "id": 394820194,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
